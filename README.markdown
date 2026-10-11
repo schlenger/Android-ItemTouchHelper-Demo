@@ -1,3 +1,8 @@
+## ARCHIVED
+
+Not maintaned anymore. S. official resources.
+
+
 # Android-ItemTouchHelper-Demo
 
 Migrated version to newest dependencies and androidx from https://github.com/iPaulPro/Android-ItemTouchHelper-Demo
